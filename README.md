@@ -13,3 +13,5 @@ It's a **multi cuisine restaurant** which serves **Spicy southeren Indian dishes
 * Cubbon Park
 * Parksquare Mall
 * Library
+
+Link to the MyMedia : [MyMedia](MyMedia.md)
