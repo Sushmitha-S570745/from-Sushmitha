@@ -18,7 +18,7 @@ Link to the MyMedia : [MyMedia](MyMedia.md)
 
 ---
 
-# Sadhguru's Inner Engineering 
+#### Sadhguru's Inner Engineering 
 
 I often watch Sadhguru's videos in my spare time.If I had to recommend I would suggest them to try listening the below listed videos:
 
