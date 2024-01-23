@@ -41,3 +41,25 @@ Love like you'll never be hurt,
 Sing like there's nobody listening,
 And live like it's heaven on earth.”
 ― William W. Purkey
+
+---
+
+#### Code Fencing
+
+This Node.js code-6, given a data object, converts the object to a JSON string and stores it in a file with the specified path.
+
+<https://code.pieces.app/collections/node-js>
+
+```
+
+const fileSystem = require('fs')
+
+const storeData = (data, path) => {
+  try {
+    fileSystem.writeFileSync(path, JSON.stringify(data))
+  } catch (error) {
+    console.error(error)
+  }
+} 
+
+```
