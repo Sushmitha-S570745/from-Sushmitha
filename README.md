@@ -29,3 +29,15 @@ I often watch Sadhguru's videos in my spare time.If I had to recommend I would s
 |How to handle ourselves in hard times|tells about dealing with feelings of loneliness and getting through hard times in life|sadhguru|
 |The power of 3:40AM|Sadhguru delves into what makes the time of 3:40 AM or “Brahma Muhurtam” significant, particularly for spiritual seekers, and also explains how one can make the most of it.|sadhguru|
 
+---
+
+#### Favorite Quotes
+
+"I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”
+― Marilyn Monroe
+
+“You've gotta dance like there's nobody watching,
+Love like you'll never be hurt,
+Sing like there's nobody listening,
+And live like it's heaven on earth.”
+― William W. Purkey
